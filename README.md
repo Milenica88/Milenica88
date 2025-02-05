@@ -1,24 +1,36 @@
-# Hi there, I'm **Milena Paripovic** 👋
+# Hi there, I'm **Milena Paripović** 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile Views](https://komarev.com/ghpvc/?username=Milenica88)
 
 ## About Me 🌟
 I’m currently finishing my bachelor’s degree at the Faculty of Organizational Sciences 🎓.  
 I enjoy going to music quizzes 🎶 and spending time with family and friends 👨‍👩‍👧‍👦.  
+<br>
 
 ## Skills & Technologies 🚀
-- **Languages**:  
-  - [![Spanish](https://img.shields.io/badge/-Spanish-0055A4?style=flat&logo=duolingo&logoColor=ffffff)](https://www.duolingo.com/profile/milenapari14)  
-  - [![Portuguese](https://img.shields.io/badge/-Portuguese-0055A4?style=flat&logo=duolingo&logoColor=ffffff)](https://www.duolingo.com/profile/milenapari14)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)  
+- **Languages**:
+   <br> 
+  <a href="https://www.duolingo.com/profile/milenapari14">
+    <img src="https://static.wikia.nocookie.net/duolingo/images/f/f9/Spanish_flag.png/revision/latest?cb=20230812204030" height="40" alt="Spanish Flag" />
+  </a> 
+  <a href="https://www.duolingo.com/profile/milenapari14">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSZZQc5hjn-cfFNk-6ga9cNy3sonTf-0xXA&s" height="40" style="border-radius: 30px;" alt="Portuguese Flag" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <br>
 - **Frameworks**:  
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff)  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" /> <br>
 - **Tools**:  
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)  
-  - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=ffffff)
-
-## Connect with me 🌍
-- LinkedIn: (https://www.linkedin.com/in/milena-paripovi%C4%87/)
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  </div>
+  <br>
 
 ## Fun Fact 🎉
 I’m always up for a challenge at a music quiz! 🎤
+
+
+
+
